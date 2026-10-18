@@ -21,7 +21,7 @@ and detects suspicious activities.
 4. Generates a security report
 
 ## Example
-<img width="469" height="235" alt="image" src="https://github.com/user-attachments/assets/aa61b230-ef87-4ecd-ae27-b55819701d65" />
+<img width="462" height="231" alt="image" src="https://github.com/user-attachments/assets/823df8f0-cb6e-4299-842a-f9d7a5d8f2ce" />
 
 
 
